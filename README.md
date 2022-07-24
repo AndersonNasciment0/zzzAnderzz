@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzAnderzz&show_icons=true&theme=radical)
 
-## Tecnologias que eu utilizo:
+## Tecnologias Que Utilizo:
 <div style="display: inline-block"></br>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
