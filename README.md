@@ -1,4 +1,4 @@
-### Ola! Meu nome é Anderson 🤝
+### Olá! Meu nome é Anderson 🤝
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zzz_adrr/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-nascimento-b58150215/)
@@ -12,4 +12,4 @@
 <img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div></br>
 
-Desenvolvedor Novato em fase de estudos e iniciante na área de  Cybersecurity.
+Desenvolvedor Novato em fase de estudos e iniciante na área de Cybersecurity.
